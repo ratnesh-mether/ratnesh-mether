@@ -16,5 +16,5 @@ I am an An Experienced Frontend Developer 🤹‍♀️, Excited to Learn and Co
 
 ### Let's connect 👇
 <a href="https://www.linkedin.com/in/ratnesh-mether/" title="ratnesh-mether" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:metherratneshi@gmail.com" target="_blank" title="Hello, Let's Connect" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="mailto:metherratneshi@gmail.com" target="_blank" title="Hello, Let's Connect" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ratnesh_mether" target="_blank" title="ratnesh_mether" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
